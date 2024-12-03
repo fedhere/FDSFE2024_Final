@@ -22,7 +22,7 @@ Ask questions on the midterm slack channel  or by unmuting on zoom
 
 ## Violation of the rules will result in 0 grade no exception. Note that the history of your notebooks will be available to us!! so anything that cannot be explained in your work will be considered a violation of the rules
 
-## DELIVERY: **AT THE START OF CLASS** OPEN A NOTEBOOK CHANGE THE TITLE TO \<YOURNAME FDSFE MIDTERM\> AND SHARE IT WITH THE INSTRUCTORS. This is the notebook you will work in, do not change it during the exam.
+## DELIVERY: **AT THE START OF CLASS** OPEN A NOTEBOOK CHANGE THE TITLE TO \<YOURNAME FDSFE FINAL 2024\> AND SHARE IT WITH THE INSTRUCTORS. This is the notebook you will work in, do not change it during the exam.
 
 Share it with fbianco@udel.edu and fortino@udel.edu, see the following images for help.
 
