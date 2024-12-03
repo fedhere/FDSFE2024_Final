@@ -4,6 +4,10 @@
 
 ## READ CAREFULLY ALL INSTRUCTIONS IN THE NOTEBOOK!
 
+If you are concerned that the exam pressure did not allow you to perform well, at the end of the exam schedule notify me and Willow that you want to schedule a 1-1 interview to explain what you did in the final and what you should have done instead. If possible this request will be accommodated and you will be able to recover some of the points in the exam. Note however that this can go two ways: if you did things right in the exam and you cannot explain them you will lose points and your interview may result in lowering your grade. Only use this option if you feel you underperformed because of exam pressure. 
+
+
+
 # RULES: 
 
 ## Cameras must be on. 
